@@ -1,0 +1,1 @@
+nohup sh job.sh &> out.log &
